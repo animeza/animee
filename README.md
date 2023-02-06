@@ -1,2 +1,2 @@
-# animee
-animee site
+# anime
+anime site
